@@ -1,0 +1,15 @@
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.deps.json
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.runtimeconfig.json
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.dll
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/bin/Debug/net6.0/ShoppingList.pdb
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.csproj.AssemblyReference.cache
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.AssemblyInfoInputs.cache
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.AssemblyInfo.cs
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.csproj.CoreCompileInputs.cache
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.dll
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/refint/ShoppingList.dll
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.pdb
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/ShoppingList.genruntimeconfig.cache
+/Users/tko/Projects/AfterHoursBootcamp/ShoppingList/ShoppingList/obj/Debug/net6.0/ref/ShoppingList.dll
